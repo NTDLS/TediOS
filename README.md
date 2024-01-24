@@ -1,5 +1,5 @@
 # TediOS
-A template OS originally designed to reverse SHA1 hashes on bare metal instead of dealing with OS overhead, turns out that pre-emptive scheduling is better than I had anticipated. ¯\_(ツ)_/¯
+A template OS originally designed to reverse SHA1 hashes on bare metal instead of dealing with OS overhead, turns out that pre-emptive scheduling is better than I had anticipated. ¯\\_(ツ)_/¯
 
 
 **Fresh Boot**
