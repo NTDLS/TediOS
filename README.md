@@ -1,5 +1,8 @@
 # TediOS
-A template OS originally designed to reverse SHA1 hashes on bare metal instead of dealing with OS overhead, turns out that pre-emptive scheduling is better than I had anticipated. ¯\\_(ツ)_/¯
+A template OS originally designed to reverse SHA1 hashes on bare metal instead of dealing with OS overhead, turns out that pre-emptive scheduling is better than I had anticipated.
+¯\\_(ツ)_/¯
+
+Anyway, if you want to compile you'll need the [Old Compilers and Linkers](https://networkdls.com/File/Software/Attachment/tedios/ocal.zip) and a Windows 2000 era OS.
 
 
 **Fresh Boot**
